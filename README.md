@@ -1,6 +1,6 @@
 **metafour.ai.github.io**
 
- - testing html/css workflow for practice
+ - Testing basic html/css workflow for practice.
 
 **Site Screenshot**
 
